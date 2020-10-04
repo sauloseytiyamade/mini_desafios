@@ -1,6 +1,4 @@
 # mini_desafios
-Mini Desafios de Programação
-## Mini Desafios
 
 Este git será destinado a partir de hoje para novos pequenos desafios de programação que eu estou pensando em fazer. Acredito que estes **Mini Desafios** farão com que eu cresça como pessoa e também como desenvolvedor Web.
 
